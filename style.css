@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: rgb(120, 154, 170);
+    padding: 10px;
+}
+
+main {
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.game {
+    background-color: aqua;
+    width: 240px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.game img {
+    border-radius: 10px;
+}
